@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689614948 source:d:\nsbm se\1st year\2nd sem\algorithms and data structures\codes\ina\individual\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
